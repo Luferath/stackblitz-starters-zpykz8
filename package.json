@@ -1,0 +1,14 @@
+{
+  "name": "pagina-responsiva-com-dicas",
+  "version": "1.0.0",
+  "description": "Uma página responsiva que mostra dicas ao passar o mouse sobre os botões.",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --open=."
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "author": "Seu Nome",
+  "license": "MIT"
+}
